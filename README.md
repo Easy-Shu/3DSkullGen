@@ -16,7 +16,6 @@ If you find our work useful to your research, please consider citing:
   year={2021},
   publisher={Elsevier}
 }
-
 ```
 
 ## Contacts
