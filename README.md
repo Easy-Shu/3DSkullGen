@@ -2,7 +2,7 @@
 3D skull generation is essential for smart healthcare applications such as craniofacial reconstruction, forensic anthropology, and surgical planning. We collected 500 high-resolution skull meshes from the public MUG500+ database. All meshes were parameterized using non-rigid iterative closest point (ICP) and aligned to a unified template via Procrustes analysis.  The resulting parametric mesh dataset will be made publicly available after the acceptance of this paper.
 
 <img src="https://github.com/Easy-Shu/3DSkullGen/blob/main/Fig_Dataset.png" width=100% alt="Demo"></img>
-
+Examples of 3D skull parameterization. (a) Original skull meshes generated from CT images. (b) 3D registrated skull meshes created using the NICP algorithm. (c) Per-vertex registration error colormaps. The mean $\pm$ standard deviation of registration errors for all 600 real skull meshes is 0.45 $\pm$ 0.06 mm.
 
 
 ## Citation
